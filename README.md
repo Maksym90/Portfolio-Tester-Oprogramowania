@@ -44,12 +44,19 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 <center>
 
 Podstawy Programowania
+  
 Podstawy Baz Danych
+  
 Techniki Projektowania Testów
+  
 Zajęcia z Testowania
+  
 Selenium WebDriver
+  
 BDD
+  
 Projekt Końcowy
+  
 
 </center>
 
