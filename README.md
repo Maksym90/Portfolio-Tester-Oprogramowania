@@ -43,9 +43,9 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 ## Zadania, które wykonywałem w czasie kursu:
 <center>
 
-[Podstawy Programowania](Podstawy Programowania) | [Podstawy Baz Danych](Podstawy Baz Danych) | [Techniki Projektowania Testw](Techniki Projektowania Testów) |
-[Zajęcia z Testowania](Zajęcia z Testowania) | [Selenium WebDriver](Selenium WebDriver) | [BDD](BDD) |
-[Projekt Końcowy](Projekt Końcowy)
+[Podstawy Programowania] | [Podstawy Baz Danych] | [Techniki Projektowania Testw] |
+[Zajęcia z Testowania] | [Selenium WebDriver] | [BDD] |
+[Projekt Końcowy]
 
 </center>
 
